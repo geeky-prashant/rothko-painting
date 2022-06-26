@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Rothko Painting</h2>
-In this project, I have used the CSS box model by building to create my own Rothko Painting, <br />The project is built using HTML5 & CSS3.
+In this project, I have used the CSS and the Box Model to create my own Rothko Painting, <br />The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/rothko-painting/"><strong>➥ Live Demo</strong></a>
 
